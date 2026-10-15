@@ -1,0 +1,9 @@
+git init
+git add .
+git commit -m “izoh”
+git branch -M main
+git remote add origin https://github.com/odilovakmalbek479-dot/GitHub
+git push -u origin main
+git add .
+git commit -m “izoh”
+git push origin main
